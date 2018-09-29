@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Âñïîìîãàòåëüíûå ìåòîäû äëÿ FPM</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <MSG_ID>ZSRM_FPM</MSG_ID>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>CLEAR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Î÷èñòêà ëîãà ñîîáùåíèé</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>CLEAR</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Î÷èñòêà ëîãà ñîîáùåíèé</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>DUMMY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Ôèêòèâíàÿ ôóíêöèÿ äëèíû 1</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>DUMMY</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ôèêòèâíàÿ ôóíêöèÿ äëèíû 1</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>GET_SEVERITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Âûáîð òèï ñîîáùåíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>GET_SEVERITY</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Âûáîð òèï ñîîáùåíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>MESSAGE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Âûâîä ñîîáùåíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>MESSAGE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Âûâîä ñîîáùåíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>MESSAGES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Âûâîä ñîîáùåíèé</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>MESSAGES</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Âûâîä ñîîáùåíèé</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>R_OIF</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Communication Floorplan &lt;-&gt; AppCC</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FPM_STATIC</CLSNAME>
+     <CMPNAME>R_OIF</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Communication Floorplan &lt;-&gt; AppCC</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
